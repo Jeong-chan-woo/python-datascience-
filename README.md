@@ -11,6 +11,6 @@ python(for datascience, use pandas, numpy, etc...)
 ->This project has been selected as a model project(among 40, 50 student)
 ->이 프로젝트는 40, 50명의 학생들 중 최고의 모범 프로젝트로 선정되었습니다.
 
-## COVID19(mae 2020.5 age 21)
+## COVID19(made 2020.5 age 21)
 ->analysis COVID19
 ->코로나19 바이러스에 대한 분석입니다.
